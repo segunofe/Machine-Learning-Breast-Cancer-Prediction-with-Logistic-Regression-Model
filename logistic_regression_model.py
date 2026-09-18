@@ -1,6 +1,3 @@
-
-
-
 # Logistic Regression
 
 ## Importing the libraries
