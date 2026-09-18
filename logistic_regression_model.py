@@ -1,6 +1,6 @@
 # Logistic Regression
 
-## Importing the libraries
+##Importing the libraries
 """
 
 import pandas as pd # pandas is a python library used to import dataset in various formats e.g csv, JSON etc
